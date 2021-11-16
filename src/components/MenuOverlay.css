@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&family=Ovo&display=swap');
+
+.name {
+    font-size: 80px;
+}
+
+.menu-options {
+    font-size: 36px;
+}
+
+@media only screen and (max-aspect-ratio: 8/7) {
+    .name {
+        font-size: 100px;
+    }    
+
+    .menu-options {
+        font-size: 48px;
+    }
+}
