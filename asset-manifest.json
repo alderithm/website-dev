@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/website-dev/static/css/main.5e3dff5a.chunk.css",
+    "main.js": "/website-dev/static/js/main.f73eb401.chunk.js",
+    "main.js.map": "/website-dev/static/js/main.f73eb401.chunk.js.map",
+    "runtime-main.js": "/website-dev/static/js/runtime-main.6cb3ba23.js",
+    "runtime-main.js.map": "/website-dev/static/js/runtime-main.6cb3ba23.js.map",
+    "static/js/2.8f83465b.chunk.js": "/website-dev/static/js/2.8f83465b.chunk.js",
+    "static/js/2.8f83465b.chunk.js.map": "/website-dev/static/js/2.8f83465b.chunk.js.map",
+    "static/js/3.60c4540c.chunk.js": "/website-dev/static/js/3.60c4540c.chunk.js",
+    "static/js/3.60c4540c.chunk.js.map": "/website-dev/static/js/3.60c4540c.chunk.js.map",
+    "index.html": "/website-dev/index.html",
+    "static/css/main.5e3dff5a.chunk.css.map": "/website-dev/static/css/main.5e3dff5a.chunk.css.map",
+    "static/js/2.8f83465b.chunk.js.LICENSE.txt": "/website-dev/static/js/2.8f83465b.chunk.js.LICENSE.txt",
+    "static/media/github.9ca0c212.svg": "/website-dev/static/media/github.9ca0c212.svg",
+    "static/media/instagram.ccf25958.svg": "/website-dev/static/media/instagram.ccf25958.svg",
+    "static/media/linkedin.3782cb9e.svg": "/website-dev/static/media/linkedin.3782cb9e.svg",
+    "static/media/logo.69f612f9.svg": "/website-dev/static/media/logo.69f612f9.svg",
+    "static/media/twitter.4a5916ea.svg": "/website-dev/static/media/twitter.4a5916ea.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb3ba23.js",
+    "static/js/2.8f83465b.chunk.js",
+    "static/css/main.5e3dff5a.chunk.css",
+    "static/js/main.f73eb401.chunk.js"
+  ]
+}
