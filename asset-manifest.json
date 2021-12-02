@@ -16,7 +16,11 @@
     "static/media/instagram.ccf25958.svg": "/website-dev/static/media/instagram.ccf25958.svg",
     "static/media/linkedin.3782cb9e.svg": "/website-dev/static/media/linkedin.3782cb9e.svg",
     "static/media/logo.69f612f9.svg": "/website-dev/static/media/logo.69f612f9.svg",
-    "static/media/twitter.4a5916ea.svg": "/website-dev/static/media/twitter.4a5916ea.svg"
+    "static/media/twitter.4a5916ea.svg": "/website-dev/static/media/twitter.4a5916ea.svg",
+    "XWing.glb": "/website-dev/XWing.glb",
+    "AvatarTest.glb": "/wesbite-dev/AvatarTest.glb",
+    "GhostTest.glb": "/website-dev/GhostTest.glb",
+    "stage.glb": "/website-dev/stage.glb"
   },
   "entrypoints": [
     "static/js/runtime-main.6cb3ba23.js",
